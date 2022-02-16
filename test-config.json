@@ -1,0 +1,29 @@
+{
+  "url": {
+    "protocol": "http",
+    "host": "localhost",
+    "port": "2112"
+  },
+  "credentials": {
+    "username": "Stanislav",
+    "password": "1234"
+  },
+  "siteId": "5aa7c71d803e9614d008395a",
+  "app": {
+    "title": "Department of statistics"
+  },
+  "documents": [
+    {
+      "name": "Dashboard List-View sorting",
+      "url": "dashboard.html?siteId=5aa7c71d803e9614d008395a&objectId=614ae717aa4aaa054414c3aa&action=open"
+    },
+    {
+      "name": "BIR_923_Dashboard_1",
+      "url": "dashboard.html?siteId=5aa7c71d803e9614d008395a&objectId=58dc9886c505c335f832d32a&action=open"
+    },
+    {
+      "name": "Test Drill to New Window",
+      "url": "dashboard.html?siteId=5aa7c71d803e9614d008395a&objectId=5a97a5ecfb6a5221986a4aec&action=open"
+    }
+  ]
+}
